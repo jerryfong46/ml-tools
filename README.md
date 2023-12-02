@@ -7,4 +7,11 @@ Prerequisites
 Python 3.x
 Relevant Python libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
 
-
+# Installation
+ ## Clone the repository:
+bash
+Copy code
+git clone https://github.com/jerryfong46/ml-tools.git
+## Install required packages:
+Copy code
+pip install -r requirements.txt
